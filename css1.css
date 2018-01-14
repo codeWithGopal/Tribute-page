@@ -1,0 +1,43 @@
+.page{
+	text-align: center;
+	font-style: space mono;
+	font-weight: 25%;
+	color: #64C42C;
+}
+div h2{
+	padding: 15px 0;
+	color:#877FD0;
+
+	text-decoration: underline;
+	
+
+}
+img{
+	border-radius: 30%;
+	border: 1.5px dotted maroon;
+	
+}
+
+ul li {
+	font-size: 25px;
+	font-family: the new roman;
+	color:#35D6F6;
+
+}
+a{
+	font-size: 25px;
+	text-align: center;
+	color: red;
+	display:inline-block;
+
+}
+footer{
+	text-align: center;
+}
+body{
+	background-color: #204A50;
+	
+}
+.rewards{
+	text-transform: cursive;
+}
